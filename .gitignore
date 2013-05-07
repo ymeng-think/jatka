@@ -1,3 +1,9 @@
+# Idea #
+.idea
+.DS_Store
+
+# Java Objects #
+target
 *.class
 
 # Package Files #
